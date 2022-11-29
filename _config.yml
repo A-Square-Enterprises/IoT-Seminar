@@ -1,5 +1,5 @@
 remote_theme: pages-themes/architect@v0.2.0
 title: IoT Seminar
-description: Seminar notes on IoT by Navaneethan A T and Adalarasan R
+description: Seminar notes on IoT by Adalarasan R and Navaneethan A T
 plugins:
 - jekyll-remote-theme
