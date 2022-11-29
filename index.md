@@ -4,7 +4,7 @@
   - Pico
   - Zero
   - 4B
-    ![[Raspberry Pi 4B.png]]
+    ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
 
 - Arduino
   - Uno
