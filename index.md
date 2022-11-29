@@ -24,6 +24,15 @@ theme: gaia
   - ESP CH340
   - ESP CP2102
 
+### Processor Architecture
+Most microcontrollers and Single-board-computers like the raspberry pi have ARM based SoCs (System on Chip), unlike regular computers that use x86_64/AMD64 architecture.
+
+The advantages of ARM are as follows:
+- Low power consumption
+- Low heat
+- Easier to develop as the instruction set is simpler
+- Cheaper to develop as the instruction set is open source
+
 ## Software
 ### Languages
 - C
