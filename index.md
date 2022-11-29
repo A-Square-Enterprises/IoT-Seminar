@@ -6,15 +6,17 @@ theme: gaia
 ## Hardware
 - Raspberry pi
   - Pico
-  ![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
+    ![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
   - Zero
-  ![Raspberry-Pi-Zero-W.png](assets/Raspberry-Pi-Zero-W.png)
+    ![Raspberry-Pi-Zero-W.png](assets/Raspberry-Pi-Zero-W.png)
   - 4B
-  ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
+    ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
 
 - Arduino
   - Uno
+  ![Arduino-Uno](assets/Arduino-Uno.png)
   - Nano
+  ![Arduino-Nano](assets/Arduino-Nano.jpg)
   - Mega
 - ESP Series
   - ESP CH340
