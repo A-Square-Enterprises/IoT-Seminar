@@ -4,27 +4,29 @@ theme: gaia
 ---
 
 ## Hardware
-- Raspberry pi
-  - Pico
-    ![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
+### Raspberry pi
+#### Pico
+![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
 
-  - Zero
-    ![Raspberry-Pi-Zero-W.png](assets/Raspberry-Pi-Zero-W.png)
+#### Zero
+![Raspberry-Pi-Zero-W.png](assets/Raspberry-Pi-Zero-W.png)
 
-  - 4B
-    ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
+#### 4B
+![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
 
-- Arduino
-  - Uno
-    ![Arduino-Uno](assets/Arduino-Uno.png)
-  - Nano
-    ![Arduino-Nano](assets/Arduino-Nano.jpg)
-  - Mega
-    ![Arduino-Mega](assets/Arduino-Mega.png)
+### Arduino
+#### Uno
+![Arduino-Uno](assets/Arduino-Uno.png)
 
-- ESP Series
-  - ESP CH340
-  - ESP CP2102
+#### Nano
+![Arduino-Nano](assets/Arduino-Nano.jpg)
+
+#### Mega
+![Arduino-Mega](assets/Arduino-Mega.png)
+
+### ESP Series
+- ESP CH340
+- ESP CP2102
 
 ### Processor Architecture
 Most microcontrollers and Single-board-computers like the raspberry pi have ARM based SoCs (System on Chip), unlike regular computers that use x86_64/AMD64 architecture.
