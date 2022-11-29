@@ -7,8 +7,10 @@ theme: gaia
 - Raspberry pi
   - Pico
     ![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
+
   - Zero
     ![Raspberry-Pi-Zero-W.png](assets/Raspberry-Pi-Zero-W.png)
+
   - 4B
     ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
 
