@@ -14,10 +14,12 @@ theme: gaia
 
 - Arduino
   - Uno
-  ![Arduino-Uno](assets/Arduino-Uno.png)
+    ![Arduino-Uno](assets/Arduino-Uno.png)
   - Nano
-  ![Arduino-Nano](assets/Arduino-Nano.jpg)
+    ![Arduino-Nano](assets/Arduino-Nano.jpg)
   - Mega
+    ![Arduino-Mega](assets/Arduino-Mega.png)
+
 - ESP Series
   - ESP CH340
   - ESP CP2102
@@ -28,15 +30,15 @@ theme: gaia
 - C++
 - MicroPython
 - Ada
+
 ### IDEs
 - Arduino IDE
-
+- Thonny IDE
 
 ### Raspberry Pi Operating Systems
 - Windows for ARM
 - Raspberry Pi OS
 - Android 13 (Through Lineage OS 20)
-
 
 ## Sensors and Modules
 - Relay
