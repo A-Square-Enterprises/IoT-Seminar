@@ -1,10 +1,16 @@
-# Topics
+---
+marp: true
+theme: gaia
+---
+
 ## Hardware
 - Raspberry pi
   - Pico
+  ![Raspberry-Pi-Pico-W.png](assets/Raspberry-Pi-Pico-W.png)
   - Zero
+  ![Raspberry-Pi-Zero-W.png](Raspberry-Pi-Zero-W.png)
   - 4B
-    ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
+  ![Raspberry Pi 4B.png](assets/Raspberry-Pi-4B.png)
 
 - Arduino
   - Uno
@@ -13,6 +19,7 @@
 - ESP Series
   - ESP CH340
   - ESP CP2102
+
 ## Software
 ### Languages
 - C
@@ -22,10 +29,12 @@
 ### IDEs
 - Arduino IDE
 
+
 ### Raspberry Pi Operating Systems
 - Windows for ARM
 - Raspberry Pi OS
 - Android 13 (Through Lineage OS 20)
+
 
 ## Sensors and Modules
 - Relay
